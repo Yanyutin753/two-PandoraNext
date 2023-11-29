@@ -34,7 +34,7 @@ services:
       - ./pandoraproxy/data:/data
       - ./data/license.jwt:/data/license.jwt
       - ./data/tokens.json:/data/tokens.json
-      - /pandora/session/:/root/.cache/PandoraNext
+      - ./session/:/root/.cache/PandoraNext
 
   tokensTool:
     image: yangclivia/tokenstool:latest

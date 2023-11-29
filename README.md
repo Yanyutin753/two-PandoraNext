@@ -15,3 +15,5 @@ cd /pandora
 docker-compose up -d
 ```
 ##### 4.开放8081（tokensTool）、8082(proxy)、8181(web)端口即可访问
+
+##### 5.打开8081，配置刷新token的地址为：http://你的ip:8082

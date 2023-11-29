@@ -2,7 +2,7 @@
 
 ##### 1.把Pandora文件放在主机根目录
 
-##### 2.填写两个config.json文件里面的license_ip
+##### 2.填写两个config.json文件里面的license_ip(都是同一个值）
 
 ###### 第一个config.json  \pandora\data\config.json
 

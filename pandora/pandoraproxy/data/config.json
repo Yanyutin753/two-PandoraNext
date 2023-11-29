@@ -1,0 +1,24 @@
+{
+  "loginUsername": "root",
+  "tokenKind": "access_token",
+  "public_share": false,
+  "whitelist": null,
+  "timeout": 600,
+  "autoToken_url": "default",
+  "site_password": "",
+  "bind": "0.0.0.0:8082",
+  "setup_password": "123456",
+  "captcha": {
+    "oai_username": false,
+    "site_key": "",
+    "provider": "",
+    "site_secret": "",
+    "setup_login": false,
+    "site_login": false,
+    "oai_password": false
+  },
+  "license_id": "",
+  "loginPassword": "123456",
+  "server_mode": "proxy",
+  "proxy_url": ""
+}
